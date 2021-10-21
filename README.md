@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DChero19
+- 🌱 I’m new to coding
+- I would love to learn coding quickly
 - 👀 I’m interested in code about cricket
-- 🌱 I’m currently learning ICT
-- you can learn anything about cricket from here
-
+- you will learn lot about cricket from here
